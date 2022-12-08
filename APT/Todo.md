@@ -1,0 +1,5 @@
+- [ ] Maybe need to enumerate the website 
+- [ ] Need to Enemrate port 135
+- [ ] Check eternal blue because buld number is 14393
+- [ ] Enumerate SMB with no creds, Anonymous, or null credenitals
+- [ ] 
